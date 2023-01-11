@@ -5,7 +5,7 @@ export const Detalle=()=>{
 
     const navegar = useNavigate();
     const irInicio=()=>{
-        navegar("/inicio");
+        navegar("/");
     };
 
 
