@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/TestDeploy/static/css/main.31d6cfe0.css",
-    "main.js": "/TestDeploy/static/js/main.45320200.js",
+    "main.js": "/TestDeploy/static/js/main.f897e658.js",
     "index.html": "/TestDeploy/index.html",
-    "main.45320200.js.map": "/TestDeploy/static/js/main.45320200.js.map"
+    "main.f897e658.js.map": "/TestDeploy/static/js/main.f897e658.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.45320200.js"
+    "static/js/main.f897e658.js"
   ]
 }
