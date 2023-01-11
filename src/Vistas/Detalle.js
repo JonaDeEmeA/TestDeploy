@@ -11,7 +11,7 @@ export const Detalle=()=>{
 
     return(
         <>
-            <h1>Vista DETALLE</h1>
+            <h1>Vista DETALLE NUevo</h1>
             <button onClick={irInicio} >A INICIO</button>
         </>
     )
