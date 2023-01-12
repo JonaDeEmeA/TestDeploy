@@ -12,6 +12,8 @@ export const Detalle=()=>{
     return(
         <>
             <h1>Vista DETALLE NUevo</h1>
+            <h1>Detalle x Erbin</h1>
+
             <button onClick={irInicio} >A INICIO</button>
         </>
     )
