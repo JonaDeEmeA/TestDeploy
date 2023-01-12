@@ -12,6 +12,7 @@ export const Inicio=()=>{
     return(
         <>
             <h1>Vista INICIO</h1>
+            <h1>XXXX</h1>
             <button onClick={irDetalle} >A DETALLE</button>
         </>
     )
